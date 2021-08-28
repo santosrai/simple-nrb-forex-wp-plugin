@@ -1,0 +1,1 @@
+# simple-nrb-forex-wp-plugin
